@@ -1,0 +1,713 @@
+climate change project implementing unit
+
+
+
+mongolia’s initial biennial update report
+
+chapter 1
+
+table of contents
+
+acronyms and abbreviation 9
+
+executive summary 11
+
+1. national circumstances and institutional arrangements 17
+
+1.1 national circumstances 18
+
+1.1.1 country profile 18
+
+demography 19
+
+government 19
+
+economy 20
+
+energy 20
+
+industry 22
+
+transportation 22
+
+agriculture 24
+
+1.2 institutional arrangements 25
+
+preparation of the bur 25
+
+policy dimensions 25
+
+institutional arrangement 27
+
+bur implementation arrangement 29
+
+1.3 financial, technology and capacity needs 28
+
+2. national greenhouse gas inventory 31
+
+2.1 national greenhouse gas inventory system 32
+
+2.1.1 overview of institutional arrangements for compiling ghg inventory 32
+
+2.1.2 overview of inventory preparation and management 33
+
+2.2 trends in greenhouse gas (ghg) emissions 34
+
+2.2.1 description and interpretation of emission trends for 
+
+aggregated ghg emissions 34
+
+3. mitigation actions and their effects 39
+
+3.1 international market mechanism 40
+
+3.1.1 clean development mechanism (cdm) 40
+
+3.1.2 joint crediting mechanism (jcm) 41
+
+3.2 mitigation actions and their effects 41
+
+3.2.1 energy 45
+
+3.2.2 industry 53
+
+3.2.3 livestock 55
+
+3.2.4 agriculture 60
+
+3.2.5 forest 64
+
+
+
+mongolia’s initial biennial update report
+
+chapter 1
+
+3.2.6 waste 65
+
+3.3 domestic mrv mechanism 67
+
+4. constraints and gaps, and related financial, 
+
+ technical and capacity needs 69
+
+4.1 information on the support received 71
+
+5. other 75
+
+un-redd 76
+
+reduction of air pollution 76
+
+references 78
+
+annex 80
+
+ 
+
+
+
+mongolia’s initial biennial update report
+
+chapter 1
+
+list of figures
+
+figure 1-1: location of mongolia 18
+
+figure 1-2: population trend of mongolia 19
+
+figure 1-3: gdp by sectors in 2015 20
+
+figure 1-4: cement and lime production 22
+
+figure 1-5: livestock population 24
+
+figure 1-6: indicative potential emissions reductions of the measures compared to bau 
+
+ emissions 27
+
+figure 1-7: institutional arrangement for climate change activities 28
+
+figure 1-8: the first bur implementation arrangement 29
+
+figure 2-1: institutional arrangement for the ghg inventory compilation of mongolia 32
+
+figure 2-2: mongolia’s total and net ghg emissions and removals, 1990-2014 (gg co2e) 34
+
+figure 2-3: the composition of mongolian ghg emissions by sectors in 2014 35
+
+figure 2-4: the contribution of sectors to mongolia’s total emissions for the 
+
+ period 1990-2014 37
+
+figure 3-1: projected ghg emissions and removal by sources/sinks by sectors, bau 44
+
+figure 3-2: projected total ghg emissions by gases, bau 44
+
+figure 3-3: ghg emissions in energy sector 49
+
+figure 3-4: share of ghg emissions by energy sectors 49
+
+figure 3-5: potential emission reduction of energy production by increasing 
+
+ share of renewable energy 51
+
+figure 3-6: total ghg emission reduction from energy sector 52
+
+figure 3-7: cement consumption and demand 54
+
+figure 3-8: co2 emission projection from cement production 55
+
+figure 3-9: number of livestock in bau scenario 57
+
+figure 3-10: livestock number in scenario of “mongolian livestock” program 2010 targets 
+
+ assumed to be fully implemented and reached 58
+
+figure 3-11: livestock number in scenario of “mongolian livestock” program targets 
+
+ since 2015 are fully implemented and reached 58
+
+figure 3-12: ch4 emission from livestock (in three different estimation scenarios) 59
+
+figure 3-13: ghg emissions from livestock (in three different estimation scenarios) 59
+
+figure 3-14: change in biomass pool of cropland (comap model) 61
+
+figure 3-15: change of arable land area and decrease of abandoned yield 62
+
+figure 3-16: ghg emission, cultivated by old technology and removal (abandoned land) 62
+
+figure 3-17: ghg emission and removal, cultivated by new technology (abandoned land) 63
+
+figure 3-18: co2 equivalent emission reduction projection from cropland 63
+
+figure 3-19: change in biomass of forest, comap model 65
+
+figure 3-20: projected ghg emission of solid waste 66
+
+figure 3-21: ghg emission reduction from solid waste 67
+
+
+
+mongolia’s initial biennial update report
+
+chapter 1
+
+list of tables
+
+table 1-1: some socio-economy data of mongolia 20
+
+table 1-2: electricity production 21
+
+table 1-3: all types of cargo transport turnover and passenger turnover 23
+
+table 1-4: number of cars, types and used period 23
+
+table 2-1: activities and responsibilities of each entity involved in the 
+
+ preparation process 33
+
+table 2-2: mongolia’s ghg emissions/removals by sectors in 1990 and 2014 35
+
+table 2-3: average annual growth rates, % 36
+
+table 2-4: the aggregated ghg emissions and removals by sectors, gg co2e 36
+
+table 3-1: the status of clean development mechanism project in mongolia 40
+
+table 3-2: issuance of credits under the jcm scheme of mongolia 41
+
+table 3-3: mongolia’s’ climate change mitigation policies and actions 42
+
+table 3-4: policies and measures to mitigate ghg emissions in energy sector 45
+
+table 3-5: baseline scenario of social and economic indicators 48
+
+table 3-6: chps currently under operation and planned 48
+
+table 3-7: ghg emissions energy demand and energy transformation 50
+
+table 3-8: information of implemented and planned renewable energy stations 50
+
+table 3-9: share of renewable energy percentage 51
+
+table 3-10: baseline scenario of ghg emission reduction through increase of 
+
+ energy efficiency 52
+
+table 3-11: policies and measures to mitigate ghg emissions in industry sector 53
+
+table 3-12: policies and measures to mitigate ghg emissions in livestock sector 55
+
+table 3-13: policies and measures to mitigate ghg emissions in agriculture 60
+
+table 3-14: policies and measures to mitigate ghg emission in forest 64
+
+table 3-15: policies and measures to mitigate ghg emission in waste 65
+
+table 4-1: financial, technical and capacity building needs 71
+
+table 4-2: information on financial resources, technology transfer, 
+
+ capacity building and technical support received 73
+
+
+
+mongolia’s initial biennial update report
+
+chapter 1
+
+acronyms and abbreviations
+
+bau business as usual
+
+beep building energy efficiency project
+
+bsl baseline
+
+bur biennial update report
+
+cdm clean development mechanism
+
+cers credit of emission reductions
+
+chp combined heat and power
+
+comap comprehensive mitigation assessment process for forestry 
+
+gdp green development policy
+
+gec global environment center foundation
+
+ghg greenhouse gas
+
+gdp gross domestic product 
+
+erc energy regulatory commission, mongolia 
+
+epr environmental performance review of mongolia
+
+hob heat only boiler 
+
+hpp hydro power plant
+
+hpp hydro power plan
+
+iea international energy agency
+
+indc intended nationally determined contribution
+
+ipcc intergovernmental panel on climate change
+
+jcm joint crediting mechanism
+
+jica japanese international cooperation agency
+
+leap long-range energy alternative planning
+
+lulucf land use, land use change and forestry
+
+masm mongolia’s agency of standard and meteorology 
+
+med medium
+
+megd ministry of environment and green development
+
+met ministry of environment and tourism
+
+mit mitigation
+
+mou memorandum of understanding 
+
+mnet ministry of nature, enviroment and tourism 
+
+mrv monitoring, reporting and verification
+
+mdg millennium development goals 
+
+mofali ministry of food and agriculture and light industry 
+
+napcc national action programme on climate change 
+
+nama nationally appropriate mitigation action
+
+nrec national renewable energy center 
+
+nso national statistics office
+
+ntc national transportation center
+
+oie the world organization for animal health 
+
+
+
+mongolia’s initial biennial update report
+
+chapter 1
+
+ppr peste des petites ruminants 
+
+tpe third party entity 
+
+ub ulaanbaatar 
+
+sgkh state great khural
+
+unfccc united nations framework convention on climate change 
+
+un united nations
+
+wam with additional measures
+
+wem with measures
+
+wom without measures
+
+units 
+
+% percent
+
+bln billion
+
+gg gigagram
+
+gwh gigawatt hour 
+
+km kilometer
+
+kwh kilowatt hour
+
+mln million 
+
+mw megawatt
+
+t ton 
+
+
+
+mongolia’s initial biennial update report
+
+chapter 1
+
+executive summary 
+
+the initial biennial update report of mongolia under the united nations framework 
+convention on climate change (unfccc) offers updated information on climate 
+change mitigation actions from mongolia’s second national communication submitted 
+to the unfccc in 2010. furthermore, it acknowledges mongolia’s efforts to mitigate 
+greenhouse gas (ghg) emissions after the submission of the intended nationally 
+determined contributions (indc) to unfccc on september 24, 2015. the initial bur has 
+the comprehensive information on mitigation scenarios of ghg emissions from 2010 
+till 2030 by assessing the key national policy documents in the contexts of sustainable 
+development and environment that the government of mongolia has approved.
+1.3 financial, technology and capacity needs 
+
+according to decision 2/cp.17, non-annex i parties are to provide updated information 
+on constraints and gaps, and related financial, technical and capacity building needs, as 
+well as updated information on financial resources, technology transfer, capacity building 
+and technical support received from the global environment facility, parties included 
+in annex ii to the convention and other developed country parties, the green climate 
+fund and multilateral institutions for activities relating to climate change, including for 
+the preparation of the current bur.
+accordingly, this chapter presents information on the need for continued reporting of the 
+ghg inventory under the convention, and financial, technological and capacity building 
+needs, constraints and finance received.
+further financial, technical and capacity-building needs of mongolia for preparing and 
+implementing mitigation projects are listed in nama is given in table 4-1. 
+
+
+
+mongolia’s initial biennial update report
+
+chapter 4
+
+constraints and gaps, and related financial, technical and capacity needs
+
+71
+
+table 4-1: financial, technical and capacity building needs
+
+activities
+
+status
+
+- ongoing
+- planned
+- completed
+
+
+support 
+needed 
+(usd)
+
+support 
+received
+
+additional 
+support 
+needed
+
+technical and capacity building needs
+
+improved insulation of 300 existing 
+panel apartment buildings in 
+ulaanbaatar
+
+planned
+
+90,000,000
+
+-
+
+-
+
+planned
+
+-
+
+-
+
+-
+
+planned
+
+-
+
+-
+
+-
+
+financial needs
+
+transforming construction in mongolia 
+using supplementary cementitious 
+materials
+
+planned
+
+15,000,000
+
+-
+
+-
+
+national energy efficient lighting 
+program in mongolia
+
+planned
+
+7,000,000
+
+-
+
+-
+
+installation of 675 mw capacity large 
+hydro power facilities
+
+planned
+
+1,350,000,000
+
+-
+
+-
+
+installation of 354 mw wind power 
+facilities
+
+planned
+
+584,000,000
+
+-
+
+-
+
+installation of 145 mw solar pv power 
+facilities
+
+planned
+
+573,000,000
+
+-
+
+-
+
+technology transfer needs
+
+improved efficiency of coal fired power 
+plants.
+table 4-2: information on financial resources, technology transfer, capacity building and technical 
+support received in usd
+
+type
+
+gef
+
+annex ii 
+& other 
+developed 
+country parties
+
+multilateral 
+institutions
+
+green 
+climate 
+fund
+
+other 
+sources
+
+preparation of bur
+
+preparation of bur
+
+financial 
+resources
+
+352,000
+
+n/a
+
+capacity- 
+building
+
+n/a
+
+technical 
+support
+
+technology 
+transfer
+
+activities covered by bur
+
+capacity building 
+cooperation for namas 
+in a mrv manner
+
+capacity 
+building
+
+v
+
+building energy 
+efficiency project (2009-
+2013)
+
+capacity 
+building
+
+975,000
+
+340,000
+
+improving energy 
+efficiency in public 
+buildings in khovd and 
+zavkhan aimags (2014-
+2016)
+
+technology 
+transfer
+
+1,200,000
+
+nationally appropriate 
+mitigation actions in 
+the construction sector 
+in mongolia (2016-2020)
+
+technology 
+transfer
+
+1,269.8
+
+5,630.1
+
+
+
+
+
+
+
+mongolia’s initial biennial update report
+
+chapter 4
+
+constraints and gaps, and related financial, technical and capacity needs
+
+green public 
+transportation (2012-
+2013)
+
+technical 
+support
+
+v
+
+multipurpose national 
+forest inventory
+
+capacity 
+building
+
+
+
+
+
+
+
+chapter 5
+
+other
+
+
+
+mongolia’s initial biennial update report
+
+chapter 5
+
+other
+
+76
+
+5. other 
+
+un-redd
+
+mongolia is participating in the un-redd (reducing emissions from deforestation and 
+forest degradation).
+(https://www.adb.org/publications/series/asia-least-cost-greenhouse-gas-abatement-strategy-algas) 
+
+
+
+mongolia’s national inventory report – 2017
+
+chapter 1
+
+introduction
+
+the preparation of nir is not only meant to serve the purpose of meeting international 
+report obligations, but it provides the basis for setting up a national emissions reduction 
+targets and mrv system for tracking them in national development policies, sustainable 
+institutional arrangement, ghg inventory system and capacity building.
+mongolia has just started a project 
+with japan through the japan international cooperation agency (jica) on mongolia’s 
+ghg inventory system improvement and capacity building.
+the duration of the project 
+is from the end of 2017 until early 2020. with the implementation of this project, it is 
+planned to improve the mongolia’s ghg inventory system, the institutional arrangement 
+of ghg inventory, data collection process, capacity building, and all these issues should be 
+applied specifically in energy (the energy balance table will be in some part developed) 
+and lulucf sectors.
+the improvements planned in the following areas: (i) additional activity data 
+(ad) collection to improve the completeness; (ii) accuracy and disaggregation of the ad; 
+(iii) ad collection system, processing and analysis;(iv) capacity building and institutional 
+arrangement.

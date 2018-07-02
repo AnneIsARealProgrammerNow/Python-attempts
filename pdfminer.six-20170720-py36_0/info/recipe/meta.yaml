@@ -1,0 +1,46 @@
+# This file created by conda-build 2.1.17
+# meta.yaml template originally from:
+# C:\projects\pdfminer-six-feedstock\recipe, last modified Mon Jul 24 02:22:51 2017
+# ------------------------------------------------
+
+package:
+    name: pdfminer.six
+    version: '20170720'
+source:
+    fn: pdfminer.six-20170720.tar.gz
+    sha256: a37c6348a8d903cf5f7d50346b0569a7c669afdb625b1ee25056f01fb82bd3e0
+    url: https://pypi.io/packages/source/p/pdfminer.six/pdfminer.six-20170720.tar.gz
+build:
+    noarch: ''
+    noarch_python: false
+    number: '0'
+    script: python setup.py install --single-version-externally-managed --record=record.txt
+    string: py36_0
+requirements:
+    build:
+        - certifi 2017.4.17 py36_0
+        - python 3.6.2 0
+        - setuptools 36.2.0 py36_0
+        - vs2015_runtime 14.0.25420 0
+        - wincertstore 0.2 py36_0
+    run:
+        - python
+        - six
+        - pycrypto
+        - chardet
+test:
+    commands:
+        - pdf2txt.py -h
+    imports:
+        - pdfminer
+about:
+    dev_url: https://github.com/pdfminer/pdfminer.six
+    home: https://github.com/pdfminer/pdfminer.six
+    license: MIT
+    license_family: MIT
+    license_file: LICENSE
+    summary: PDF parser and analyzer
+extra:
+    final: true
+    recipe-maintainers:
+        - pmlandwehr

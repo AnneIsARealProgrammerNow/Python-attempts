@@ -1,0 +1,51 @@
+{% set name = "pdfminer.six" %}
+{% set version = "20170720" %}
+{% set bundle = "tar.gz" %}
+{% set hash_type = "sha256" %}
+{% set hash = "a37c6348a8d903cf5f7d50346b0569a7c669afdb625b1ee25056f01fb82bd3e0" %}
+{% set build = 0 %}
+
+package:
+  name: {{ name|lower }}
+  version: {{ version }}
+
+source:
+  fn: {{ name }}-{{ version }}.{{ bundle }}
+  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.{{ bundle }}
+  {{ hash_type }}: {{ hash }}
+
+build:
+  number: {{ build }}
+  script: python setup.py install --single-version-externally-managed --record=record.txt
+
+requirements:
+  build:
+    - python
+    - setuptools
+  
+  run:
+    - python
+    - six
+    - pycrypto
+    - chardet  # [py3k]
+
+test:
+  imports:
+    - pdfminer
+
+  commands:
+    - pdf2txt.py -h
+    # Can't test dumppdf.py b/c -h raises issues.
+    # Can't test latin2ascii.py unless you feed it input.
+
+about:
+  home: https://github.com/pdfminer/pdfminer.six
+  license_file: LICENSE
+  license: MIT
+  license_family: MIT
+  summary: 'PDF parser and analyzer'
+  dev_url: https://github.com/pdfminer/pdfminer.six
+
+extra:
+  recipe-maintainers:
+    - pmlandwehr
